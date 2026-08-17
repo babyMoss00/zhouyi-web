@@ -92,6 +92,15 @@ npx serve .
 
 ---
 
-## License
+## 许可证 / License
 
-MIT © [babyMoss00](https://github.com/babyMoss00)
+本项目采用**非商业使用许可**（Non-Commercial Use License）。
+
+- ✅ 允许个人学习、研究、交流和非商业使用
+- ✅ 转载请注明出处并保留本许可证
+- ❌ **禁止用于任何商业目的**，包括但不限于销售、提供付费服务、嵌入盈利产品/服务、在广告分成平台发布等
+- 如需商业授权，请联系作者
+
+详见 [LICENSE](./LICENSE) 文件。
+
+Copyright © 2026 [babyMoss00](https://github.com/babyMoss00)
