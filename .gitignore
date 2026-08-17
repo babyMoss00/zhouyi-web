@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Build outputs
+dist/
+build/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Deployment platforms
+.vercel/
+.netlify/
+
+# Backups
+*.bak
+*.backup
+*.tmp
+*~
+
+# Python / local scripts
+*.py
+__pycache__/
